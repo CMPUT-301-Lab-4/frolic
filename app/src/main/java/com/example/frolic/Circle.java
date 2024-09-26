@@ -1,7 +1,7 @@
 package com.example.frolic;
 
-public class Dodecahedron extends shape {
-    public Dodecahedron(int x, int y) {
+public class circle extends shape {
+    public circle(int x, int y) {
         super(x, y);
     }
 }
